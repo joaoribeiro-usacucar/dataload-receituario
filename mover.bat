@@ -1,0 +1,10 @@
+@CHCP 1252 >NUL
+move "C:\RA\*USA1 TRATOS*.PDF" "\\USA1FS1\Vol3\USER\RA - Receituário Agronômico\RAs 2022\Iguatemi\Tratos Culturais"
+move "C:\RA\*USA2 TRATOS*.PDF" "\\USA1FS1\Vol3\USER\RA - Receituário Agronômico\RAs 2022\Paranacity\Tratos Culturais"
+move "C:\RA\*USA13 TRATOS*.PDF" "\\USA1FS1\Vol3\USER\RA - Receituário Agronômico\RAs 2022\Terra Rica\Tratos Culturais"
+move "C:\RA\*USA1 APLICACAO AEREA*.PDF" "\\USA1FS1\Vol3\USER\RA - Receituário Agronômico\RAs 2022\Iguatemi\Aplicação Aérea"
+move "C:\RA\*USA2 APLICACAO AEREA*.PDF" "\\USA1FS1\Vol3\USER\RA - Receituário Agronômico\RAs 2022\Paranacity\Aplicação Aérea"
+move "C:\RA\*USA13 APLICACAO AEREA*.PDF" "\\USA1FS1\Vol3\USER\RA - Receituário Agronômico\RAs 2022\Terra Rica\Aplicação Aérea"
+move "C:\RA\*USA1 FORMACAO*.PDF" "\\USA1FS1\Vol3\USER\RA - Receituário Agronômico\RAs 2022\Iguatemi\Formação"
+move "C:\RA\*USA2 FORMACAO*.PDF" "\\USA1FS1\Vol3\USER\RA - Receituário Agronômico\RAs 2022\Paranacity\Formação"
+move "C:\RA\*USA13 FORMACAO*.PDF" "\\USA1FS1\Vol3\USER\RA - Receituário Agronômico\RAs 2022\Terra Rica\Formação"
